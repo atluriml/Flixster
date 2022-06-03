@@ -34,7 +34,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had a lot of difficulties with GitHub
 
 ## Open-source libraries used
 
