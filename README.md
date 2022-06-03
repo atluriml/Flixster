@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [Kap](https://getkap.co/).
 
-https://submissions.us-east-1.linodeobjects.com/metau_android/yJP3ci3C.gif
+<img src='https://github.com/atluriml/Flixster/raw/master/ezgif.com-gif-maker.gif' title='Flixster Walkthrough' width='250' alt='Flixster Walkthrough'/>
 
 
 ## Notes
